@@ -2,3 +2,53 @@
 html css templates layouts
 
 i_tpl00.htm
+```html
+<!DOCTYPE HTML>
+<!--
+	
+	@cha-desig | Copyright (CC BY-NC 4.0) 
+	
+-->
+<html>
+	<head>
+		<title>: cha.design : soluciones creativas .</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="./css/style_intro.css" />
+		<meta name="DESCRIPTION" content="" />
+	</head>
+	<body id="mobile-first">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<div id="main" >
+					
+					<div id="main_warp"> 
+							
+							<h1 class="txt_sha"> cha·design </h1>
+							<h2> creative solutions </h2>
+							
+						
+					</div>
+
+
+				</div>
+				
+<footer>
+<p> pretty weaving since 99 .<span>
+		design by da-da. ©
+</span> </p>
+
+
+
+</footer>
+			</div>
+
+		<!-- BG -->
+		<div id="back" class="fade-in" ></div>
+	
+
+	</body>
+</html>
+```
